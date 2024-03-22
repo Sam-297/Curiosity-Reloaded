@@ -19,3 +19,5 @@ Curiosity Reloaded is a project aimed at optimizing the navigation of the Mars r
 
 ## Contributing
 Contributions to improve the efficiency and functionality of Curiosity Reloaded are welcome. Please fork the repository, make your changes, and submit a pull request for review.
+
+Note: I did not make the `tests/` folder.
