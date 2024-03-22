@@ -1,0 +1,43 @@
+Programme:
+
+# Remplacez la ligne ci-dessous par votre propre programme Curiosity.
+AAAAAA G AA G AA D AAAA D AAAA D AAAA G AA G AAAAAA D AA D AA G AA G AA D AA D AA G AA G AA D AAAAAAAA D AA G AAAA D AA D AA G AA G AA
+D AA D AAAA D AA G AA G AA D AAAA G AA D AAAA D AA G AA G AA D AA G AA G AAAA D AA G AAAAAAAA G AA D AA D AAAAAA G AA D AA G AAAA
+G AAAA G AAAA D AA D AA G AAAA D AA D AAAA G AAAA G AA G AA D AAAA G AA D AA D AAAA D AAAA G AA D AA G AA D AA D AA G AA G AAAA G AAAA
+D AA G AA D AAAAAA D AA G AA D AA D AA G AA D AA D AAAA G AA G AA D AA G AA G AA D AA G AAAAAAAAAA G AA G AA D AA D AA G AAAA G AA D AA
+G AAAAAAAAAA D AA G AAAAAA D AA G AAAAAA D AA D AAAA G AA D AAAA D AA G AAAAAAAAAAAA D AA G AA D AA G AA D AA G AA G AAAAAAAA D AAAA
+D AA G AA G AA D AAAAAA D AA D AA G AA D AAAA G AA G AAAAAA D AAAAAA D AA D AAAA G AA G AA D AA D AA G AA D AAAA G AA G AAAAAA D AA
+G AAAA G AA G AA D AAAAAA D AA G AAAA D AA D AA G AA D AA D AA G AAAAAAAA G AA G AA D AA G AAAAAAAAAA G AA D AA G AAAAAAAA D AAAA D
+AAAAAAAAAA
+
+#ou {3M{1M{G}{A}?}{DA}?C!}C! mais temps d'execution plus élevée (pour AppoLab)
+
+# Vous pouvez aussi envoyer votre programme sur AppoLab, dans l'exercice 
+# Labyrinthe, pour etre ajoute au hall of fame :-)
+# (utilisez le client-interactif fourni à l'APP1)
+
+Map 1:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~.........~...~...~.........~.............~.....................~.......~.....~
+~.~.~~~~~~~.~.~.~.~.~~~.~~~.~~~~~~~~~.~~~.~~~~~~~~~~~~~.~~~.~~~.~.~~~~~.~.~~~.~
+~.~.~.....~.~...~...~.~.~.~.....~.....~...............~...~.~.~...~.~...~.~...~
+~.~.~.~~~.~.~~~~~~~.~.~.~.~~~~~.~.~~~~~~~~~~~~~~~~~~~.~~~.~.~.~~~~~.~.~~~~~.~.~
+~.~.~.~.~.~.~.....~...~.~...~...~.......~...........~...~.~.~...~.....~.....~.~
+~.~.~.~.~.~.~.~~~.~~~~~.~.~~~.~~~~~~~~~.~~~~~~~.~~~~~~~.~~~.~.~.~.~~~~~~~.~~~.~
+~.~.~...~...~.~.~.......~...~...~.....~.......~...........~.~.~.~.......~...~.~
+~.~~~~~.~~~~~.~.~~~~~~~~~.~.~~~.~.~~~.~.~~~~~.~~~~~~~~~~~.~.~.~.~~~~~~~.~.~.~~~
+~C........~...~.....~.....~.....~...~.~...~.~...........~...~.~...~...~.~.~...~
+~.~~~~~~~.~.~~~.~.~~~.~~~~~~~~~~~~~.~.~~~.~.~~~~~~~~~.~.~~~~~.~~~.~.~.~.~~~~~.~
+~...~...~.~.~...~.....~...........~.~...~...~.......~.~...~...~.~...~.~.~.....~
+~.~~~.~.~.~.~.~~~~~~~~~.~~~~~.~.~.~.~~~.~~~~~.~~~~~.~~~.~.~.~~~.~~~~~.~.~.~~~.~
+~.~...~.~.~.~.....~.....~...~.~.~.~...~...~...~...~...~.~.~.~.......~...~.~.~.~
+~~~.~~~.~~~.~~~~~.~~~~~~~.~.~~~.~.~~~.~~~.~.~~~.~.~~~.~~~.~.~.~~~~~.~~~~~.~.~.~
+~...~.......~.............~.~...~.....~...~.~...~.~...~...~...~...~.....~.~.~.~
+~.~~~.~~~~~~~~~~~.~~~~~~~~~.~.~~~~~~~~~.~~~.~.~~~.~.~~~.~~~~~~~.~~~~~~~.~.~.~.~
+~.~.~...~...~...~.~.....~.~.~.....~...~.....~...~...~.....~.........~...~.~.~.~
+~.~.~~~.~.~.~.~.~~~.~~~~~.~.~~~.~.~.~~~~~~~~~~~.~~~~~~~~~.~.~~~~~~~.~.~~~.~.~.~
+~.~.....~.~.~.~.....~.~...~...~.~.~.....~.....~...........~...~...~...~...~.~.~
+~.~~~~~~~.~.~.~~~~~~~.~.~.~~~.~~~.~.~~~.~.~.~~~~~~~~~~~~~~~~~.~~~.~~~~~.~~~.~.~
+~.........~...~.........~.........~...~...~.............................~....@~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
